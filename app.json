@@ -21,10 +21,16 @@
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
       },
-      "package": "com.anonymous.monprojet"
+      "package": "com.adam.smarttodo"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "84dd7c3e-9f7d-4efe-8568-e50f11891755"
+      }
+    },
+    "owner": "advxm"
   }
 }
